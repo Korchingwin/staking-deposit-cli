@@ -3,7 +3,7 @@ import click
 from typing import (
     Any,
     Callable,
-)
+)log
 
 from eth_typing import HexAddress
 from staking_deposit.credentials import (
